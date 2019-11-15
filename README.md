@@ -1,6 +1,6 @@
 # Rock Paper Scissors in Python! A text-based classic spin off!
 
-Pick your weapon and wage war with the computer - But be carefull! If you lose you will recieve a vurtual sting!
+## Pick your weapon and wage war with the computer - But be carefull! If you lose you will recieve a vurtual sting!
 
 Prerequisites - You will only need [Python3](https://www.python.org/downloads/) to play.
 
