@@ -6,7 +6,7 @@ Prerequisites - You will only need [Python3](https://www.python.org/downloads/) 
 
 Clone the project, `cd directory name`/download, and run the `game.py` file in a Python3 terminal window for mac/linux, or the powershell for windows.
 
-The rules are the same as the classic
+The rules are the same as the classic:
 
 1. Paper covers rock
 2. Scissors cut paper
@@ -16,7 +16,7 @@ Choose your weapon wisely!
 
 *The computer chooses first; just follow the prompts.*
 
-Built with Python3
+Built with Python3.
 
 Enjoy!
 
